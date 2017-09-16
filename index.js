@@ -6,7 +6,8 @@ const puppeteer = require('puppeteer');
 
     const browser = await puppeteer.launch();
 const page = await browser.newPage();
-await page.goto('http://example.com');
+await page.goto('http://www.udacity.com/courses/all');
+const DOMstring = await page.content();
 
 await browser.close();
 

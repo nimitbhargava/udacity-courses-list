@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nimitbhargava/udacity-courses-list#readme",
   "dependencies": {
-    "puppeteer": "^0.10.2"
+    "puppeteer": "^0.10.2",
+    "cheerio": "^1.0.0-rc.2"
   }
 }

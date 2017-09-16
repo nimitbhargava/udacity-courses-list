@@ -1,0 +1,22 @@
+{
+  "name": "udacity-courses-list",
+  "version": "1.0.0",
+  "description": "This is an updated list of udacity courses with trackers to track the new added courses and upcoming courses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimitbhargava/udacity-courses-list.git"
+  },
+  "author": "nimitbhargava@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimitbhargava/udacity-courses-list/issues"
+  },
+  "homepage": "https://github.com/nimitbhargava/udacity-courses-list#readme",
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  }
+}
